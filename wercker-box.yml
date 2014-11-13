@@ -12,9 +12,9 @@ package:
   - cordova@4.0.0
   - nodejs@0.10.31
   - grunt-cli@0.1.13
-  - android@23.0.5
+  - android@23.0.2
 script: |
-  sdk_version="23.0.5"
+  sdk_version="23.0.2"
 
   cd $HOME
 
