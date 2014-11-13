@@ -14,7 +14,7 @@ package:
   - grunt-cli@0.1.13
   - android@23.0.5
 script: |
-  sdk_version="19"
+  sdk_version="23.0.5"
 
   cd $HOME
 
